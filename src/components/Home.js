@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css'; // Import the CSS file
 import Footer from './Footer'; // Import the Footer component
-import logo from './logo.png'; // Update with the correct path to your image
+
 
 const Home = () => {
   return (
